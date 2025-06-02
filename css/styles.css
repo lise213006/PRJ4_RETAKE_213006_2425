@@ -11,12 +11,13 @@ body {
 	background-color: #f8f8fc;
 }
 
-.wdxl-lubrifont-tc-regular {
+/* Styles for custom classes in the document. (There are more, try to find them out!) */
+.title .wdxl-lubrifont-tc-regular {
   font-family: "WDXL Lubrifont TC", sans-serif;
   font-weight: 400;
   font-style: normal;
-}
 
+}
 
 .resume-header {
     background-color: #FBD3FF;
